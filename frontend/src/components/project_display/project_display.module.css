@@ -3,7 +3,24 @@
   margin-top: 1.25rem;
 }
 
-/* TODO: implement table, head, and cell styling in part 2.1 */
+.table {
+  width: 100%;
+  min-width: 640px;
+  border-collapse: collapse;
+  border: 1px solid #cbd5e1;
+  text-align: left;
+  font-size: 0.875rem;
+}
+
+.head {
+  background-color: #f1f5f9;
+}
+
+.cell {
+  border: 1px solid #cbd5e1;
+  padding: 0.5rem 0.75rem;
+  vertical-align: top;
+}
 
 .row:nth-child(odd) {
   background-color: #ffffff;
