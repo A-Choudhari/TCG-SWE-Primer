@@ -1,6 +1,6 @@
 # TCG-SWE-Primer
 
-Analyst/associate name: 
+Analyst/associate name: Akshat Choudhari
 
 > **Note:** If you get stuck, the `main` branch contains a complete reference implementation. You're also welcome to use the internet. If you use AI, finish the introduction first and read our guidance on using it effectively.
 
